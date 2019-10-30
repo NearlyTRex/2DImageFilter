@@ -1,4 +1,4 @@
-# 2dimagefilter
+# 2DImageFilter
 A collection of image filters, some especially suited to scale-up low res computer graphics.
 
 This is an import of the original code from Google Code: https://code.google.com/archive/p/2dimagefilter/
